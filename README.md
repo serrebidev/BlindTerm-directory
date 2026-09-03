@@ -1,3 +1,5 @@
+**Questions, bugs, or release news?** Join the [SerrebiProjects Telegram group](https://t.me/SerrebiProjects), the fastest place to get help.
+
 # BlindTerm MUD directory
 
 This repository holds the generated MUD directory downloaded by [BlindTerm](https://github.com/serrebidev/BlindTerm).
