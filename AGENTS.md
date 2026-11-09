@@ -2,7 +2,7 @@
 
 ### Issue tracker
 
-Issues are tracked in this repo's GitHub Issues, via the `gh` CLI. See `docs/agents/issue-tracker.md`.
+Issues are tracked in this repo's Forgejo Issues on git.serrebiradio.com, via the `tea` CLI. Not GitHub; `gh` does not work here. See `docs/agents/issue-tracker.md`.
 
 ### Triage labels
 
